@@ -1,2 +1,2 @@
 # COVID19
-Análisis de los datos sobre la COVID-19
+Análisis de datos públicos sobre la COVID-19
